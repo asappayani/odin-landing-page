@@ -133,6 +133,38 @@ ul {
     padding: 0px 300px;
 }
 
+.section-four {
+    margin: 100px;
+}
+
+.call-to-action-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    padding: 50px 100px;
+    border-radius: 10px;
+}
+
+.call-to-action-header {
+    font-size: 18px;
+    font-weight: 900;
+    color: white;
+}
+
+.call-to-action-subtext {
+    color:#E5E7EB;
+}
+
+.call-to-action-container button {
+    background-color: #3882F6;
+    color: white;
+    border-style: solid;
+    border-color:#F9FAF8;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 0px 50px;
+}
+
 
 
 
